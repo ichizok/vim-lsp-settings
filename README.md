@@ -101,6 +101,7 @@ You can change the directory to install servers by set `g:lsp_settings_servers_d
 | D                 | serve-d                             |    Yes    |      No       |
 | Dart              | analysis-server-dart-snapshot       |    Yes    |      Yes      |
 | Dockerfile        | dockerfile-language-server-nodejs   |    Yes    |      Yes      |
+| Dockerfile        | docker-language-server              |    Yes    |      Yes      |
 | Dot               | dot-language-server                 |    Yes    |      Yes      |
 | Elixir            | elixir-ls                           |    Yes    |      Yes      |
 | Elm               | elm-language-server                 |    Yes    |      Yes      |

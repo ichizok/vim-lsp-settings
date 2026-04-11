@@ -325,6 +325,14 @@
       "requires": [
         "npm"
       ]
+    },
+    {
+      "command": "docker-language-server",
+      "url": "https://github.com/docker/docker-language-server",
+      "description": "Language server for Dockerfiles, Compose files, and Bake files",
+      "requires": [
+        "go"
+      ]
     }
   ],
   "dot": [
